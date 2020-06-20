@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dXM82RlJlGxePvgBHwIYxtGNLh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Losuj">
+    <configuration name="Losuj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Losuj" />
+      <module name="szczęściarz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="szczęściarz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Losuj" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="" />
+      <created>1592566826225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592566826225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="171" key="#Project_Structure" timestamp="1592566923197">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="705" y="171" key="#Project_Structure/0.23.1920.1002@0.23.1920.1002" timestamp="1592566923197" />
+    <state width="1588" height="259" key="GridCell.Tab.0.bottom" timestamp="1592679086125">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1588" height="259" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1592679086125" />
+    <state width="1588" height="259" key="GridCell.Tab.0.center" timestamp="1592679086124">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1588" height="259" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1592679086124" />
+    <state width="1588" height="259" key="GridCell.Tab.0.left" timestamp="1592679086123">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1588" height="259" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1592679086123" />
+    <state width="1588" height="259" key="GridCell.Tab.0.right" timestamp="1592679086125">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1588" height="259" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1592679086125" />
+  </component>
+</project>
