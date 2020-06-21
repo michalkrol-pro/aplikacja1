@@ -51,7 +51,7 @@ public class Main {
 
 
 
-                } else System.out.println("żegnaj");
+                } else System.out.println("Żegnaj");
         } else System.out.println("żegnaj");
     }
 }
