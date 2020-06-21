@@ -30,19 +30,20 @@ public class Main {
                     switch (bonus){
                         case 1:
                             System.out.println("Wylosowano bonus z numerem jeden czyli udział biorą tylko numery parzyste ");
-                            // Bonusy.parzyste metoda losuje numerek
+                            Bonusy.parzyste(ileU);
+
                             break;
                         case 2:
                             System.out.println("Wylosowano bonus z numerem dwa czyli udział biorą tylko numery NIEparzyste ");
-                            // Bonusy.parzyste metoda losuje numerek
+                            Bonusy.nParzyste(ileU);
                             break;
                         case 3:
                             System.out.println("Wylosowano bonus z numerem 3 czyli udział biorą tylko numery podzielne przez 3 ");
-                            // Bonusy.parzyste metoda losuje numerek
+                            Bonusy.p3(ileU);
                             break;
                         case 4:
                             System.out.println("Wylosowano bonus z numerem 4 czyli udział biorą tylko numery podzielne przez 5 ");
-                            // Bonusy.parzyste metoda losuje numerek
+                            Bonusy.p5(ileU);
                             break;
 
 
