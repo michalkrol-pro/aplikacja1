@@ -45,8 +45,6 @@ public class Main {
                             System.out.println("Wylosowano bonus z numerem 4 czyli udział biorą tylko numery podzielne przez 5 ");
                             Bonusy.p5(ileU);
                             break;
-
-
                     }
 
 
