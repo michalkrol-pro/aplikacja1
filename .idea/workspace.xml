@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="Druga poprawka">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bonusy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bonusy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Nowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nowa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,13 +105,28 @@
       <option name="project" value="LOCAL" />
       <updated>1592757252783</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="listy">
+      <created>1593101339607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593101339607</updated>
+    </task>
+    <task id="LOCAL-00003" summary="listy">
+      <created>1593101480385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593101480385</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pierwsza poprawka" />
     <MESSAGE value="Druga poprawka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Druga poprawka" />
+    <MESSAGE value="listy" />
+    <option name="LAST_COMMIT_MESSAGE" value="listy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="705" y="171" key="#Project_Structure" timestamp="1592566923197">
@@ -133,11 +142,11 @@
     </state>
     <state x="570" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.848@0.23.1440.848" timestamp="1592927756949" />
     <state x="760" y="376" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1592985911059" />
-    <state x="158" y="166" key="CommitChangelistDialog2" timestamp="1593101338851">
+    <state x="674" y="167" key="CommitChangelistDialog2" timestamp="1593101480126">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="118" y="76" key="CommitChangelistDialog2/0.23.1440.848@0.23.1440.848" timestamp="1592927949384" />
-    <state x="158" y="166" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1593101338851" />
+    <state x="674" y="167" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1593101480126" />
     <state width="1385" height="214" key="GridCell.Tab.0.bottom" timestamp="1593101153613">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
