@@ -29,7 +29,14 @@ public class Bonusy {
             System.out.println("Wylosowany numer do odpowiedźi to: " + x);
         } else System.out.println("Wylosowany numer do odpowiedźi to: " + (x+1));}
 
-
+    /*public static void p11 (listaUczniow) {
+    System.out.println("Wylosowano bonus z numerem jeden czyli udział biorą tylko numery parzyste ");
+    for(Integer one : listaUczniów){
+        if(one % 2 == 0) {
+            //przerobić na stream
+            listaUczniów.remove(one);
+        }
+    }*/
 
 
 }
