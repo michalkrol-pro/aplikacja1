@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="Druga poprawka">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Nowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bonusy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bonusy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Nowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +55,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Losuj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Losuj" />
-      <module name="szczęściarz" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="szczęściarz" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Nowa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Nowa" />
       <module name="szczęściarz" />
@@ -80,13 +69,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="szczęściarz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="szczęściarz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Nowa" />
-        <item itemvalue="Application.Lista" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Losuj" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Lista" />
       </list>
     </recent_temporary>
   </component>
@@ -121,31 +124,36 @@
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="705" y="171" key="#Project_Structure/0.23.1920.1002@0.23.1920.1002" timestamp="1592566923197" />
-    <state x="570" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592927756949">
-      <screen x="0" y="23" width="1440" height="848" />
+    <state x="962" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593098493249">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="962" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1593098493249" />
+    <state x="760" y="376" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592985911059">
+      <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="570" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.848@0.23.1440.848" timestamp="1592927756949" />
+    <state x="760" y="376" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1592985911059" />
     <state x="118" y="76" key="CommitChangelistDialog2" timestamp="1592927949384">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="118" y="76" key="CommitChangelistDialog2/0.23.1440.848@0.23.1440.848" timestamp="1592927949384" />
     <state x="157" y="144" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1592757252447" />
-    <state width="1878" height="308" key="GridCell.Tab.0.bottom" timestamp="1592907217706">
+    <state width="1385" height="214" key="GridCell.Tab.0.bottom" timestamp="1593101035027">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1592907217706" />
-    <state width="1878" height="308" key="GridCell.Tab.0.center" timestamp="1592907217705">
+    <state width="1385" height="214" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035027" />
+    <state width="1385" height="214" key="GridCell.Tab.0.center" timestamp="1593101035023">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1592907217705" />
-    <state width="1878" height="308" key="GridCell.Tab.0.left" timestamp="1592907217704">
+    <state width="1385" height="214" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035023" />
+    <state width="1385" height="214" key="GridCell.Tab.0.left" timestamp="1593101035018">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1592907217704" />
-    <state width="1878" height="308" key="GridCell.Tab.0.right" timestamp="1592907217705">
+    <state width="1385" height="214" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035018" />
+    <state width="1385" height="214" key="GridCell.Tab.0.right" timestamp="1593101035026">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1592907217705" />
+    <state width="1385" height="214" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035026" />
     <state x="765" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592757172360">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
