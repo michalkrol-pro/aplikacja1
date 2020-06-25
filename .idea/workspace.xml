@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="e9cabb8f-4a88-4be5-9e23-877679905b0e" name="Default Changelist" comment="Druga poprawka">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bonusy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bonusy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Nowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+    </list>
+>>>>>>> 48e5f470c5be74e2cc106296d4136dd4ca1ab6b1
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,11 +90,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Main" />
+=======
+>>>>>>> 48e5f470c5be74e2cc106296d4136dd4ca1ab6b1
         <item itemvalue="Application.Nowa" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test3" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.Lista" />
+>>>>>>> 48e5f470c5be74e2cc106296d4136dd4ca1ab6b1
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +178,7 @@
     </state>
     <state x="570" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.848@0.23.1440.848" timestamp="1592927756949" />
     <state x="760" y="376" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1592985911059" />
+<<<<<<< HEAD
     <state x="674" y="167" key="CommitChangelistDialog2" timestamp="1593101577821">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
@@ -184,6 +205,30 @@
     </state>
     <state x="824" y="265" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1593101581447" />
     <state x="765" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593101198423">
+=======
+    <state x="118" y="76" key="CommitChangelistDialog2" timestamp="1592927949384">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state x="118" y="76" key="CommitChangelistDialog2/0.23.1440.848@0.23.1440.848" timestamp="1592927949384" />
+    <state x="157" y="144" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1592757252447" />
+    <state width="1385" height="214" key="GridCell.Tab.0.bottom" timestamp="1593101035027">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1385" height="214" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035027" />
+    <state width="1385" height="214" key="GridCell.Tab.0.center" timestamp="1593101035023">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1385" height="214" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035023" />
+    <state width="1385" height="214" key="GridCell.Tab.0.left" timestamp="1593101035018">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1385" height="214" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035018" />
+    <state width="1385" height="214" key="GridCell.Tab.0.right" timestamp="1593101035026">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1385" height="214" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1593101035026" />
+    <state x="765" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592757172360">
+>>>>>>> 48e5f470c5be74e2cc106296d4136dd4ca1ab6b1
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="765" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1002@0.23.1920.1002" timestamp="1593101198423" />
